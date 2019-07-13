@@ -1,0 +1,19 @@
+{
+  "name": "learn-clijs-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "hammy": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "figlet": "^1.2.3",
+    "inquirer": "^6.5.0"
+  }
+}
